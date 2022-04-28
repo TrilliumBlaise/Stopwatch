@@ -26,7 +26,7 @@ img {
   padding-left: 25px;
   top: 28%;
   width: 39%;
-  height: 150px;
+  height: 15%;
   background-color: rgb(198, 212, 199);
   border-radius: 5%;
 }
@@ -42,8 +42,8 @@ button {
   border: none;
   background-color: transparent;
   cursor: pointer;
-  height: 150px;
-  width: 200px;
+  height: 15%;
+  width: 10%;
 }
 
 #start-stop {
